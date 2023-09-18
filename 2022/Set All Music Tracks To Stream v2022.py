@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+ #!/usr/bin/env python3
 import os
 from waapi import WaapiClient, CannotConnectToWaapiException
 from pprint import pprint
@@ -43,11 +43,6 @@ def setMusicTrackSettings(num_of_objects, result_dictionary, zerolatency, noncac
         }
         client.call("ak.wwise.core.object.set", args)
         count = count + 1
-    else:
-        displaySystemMessage("Wwise music streaming configuration set!", "WAAPI Message")
-
-def displaySystemMessage(body_Str, title_Str):
-        os.system("osascript -e \'Tell application \"System Events\" to display dialog \""+body_Str+"\" with title \""+title_Str+"\"\'")
 
 ######EXECUTION#####
 try:

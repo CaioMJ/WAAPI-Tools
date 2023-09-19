@@ -68,6 +68,8 @@ def checkTrueFalseSpelling(stringToCheck):
         return True
     elif("f" in stringToCheck or "a" in stringToCheck or "l" in stringToCheck or "s" in stringToCheck):
         return False
+    else:
+        return ""
 
 ######EXECUTION#####
 try:

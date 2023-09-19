@@ -1,8 +1,8 @@
 # Auto Set Music Streaming Settings
 
- This is a tool to automatically configure streaming settings for music tracks in Wwise. v2021 should be used when working on Wwise 2021 and below, v2022 for Wwise 2022 and (hopefully) above.
- 
+ This is a tool to automatically configure streaming settings for music tracks in Wwise.
  To use it, double click the executable file with your Wwise project open. It will open a terminal window with prompts and instructions. 
+ Compatible with Wwise versions 2021 and 2022.
  
  Here's what it does:
  

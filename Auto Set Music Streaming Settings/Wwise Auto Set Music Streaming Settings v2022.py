@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-import os
 from waapi import WaapiClient, CannotConnectToWaapiException
 from pprint import pprint
 
@@ -74,6 +73,16 @@ def checkTrueFalseSpelling(stringToCheck):
 try:
     # Connecting to Waapi using default URL
     with WaapiClient() as client:
+        introduction = input("""\nAuto Set Music Streaming Settings for Wwise 2022\n
+\n
+This tool automatically turns on the Stream setting for all Music Tracks parented to a specified object path.\n
+It will also prompt you to enter values for the other streaming related settings.\n
+To get the path to an object in Wwise, shift+right click it and select Copy path to clipboard.\n
+You can also leave the parent path blank to affect every single Music Track in your project.\n
+Any other setting left blank will be bypassed\n
+\n
+Press Enter to continue""")
+    
         #user settings input
         input_path = input("Music Hierarchy parent path (or leave blank to affect the whole hierarchy): ")
         

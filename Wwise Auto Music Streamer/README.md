@@ -1,4 +1,4 @@
-# Auto Set Music Streaming Settings
+# Wwise Auto Set Music Streamer
 
  This is a tool to automatically configure streaming settings for music tracks in Wwise.
  To use it, double click the executable file with your Wwise project open. It will open a terminal window with prompts and instructions. 

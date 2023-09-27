@@ -1,0 +1,153 @@
+('c:\\Users\\Caio Windows VM Dev\\Documents\\Audio '
+ 'Tools\\WAAPI-Tools\\tools\\Wwise Auto Music '
+ 'Streamer\\Windows\\v2021\\build\\WwiseAutoMusicStreamer2021\\WwiseAutoMusicStreamer2021.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'c:\\Users\\Caio Windows VM Dev\\Documents\\Audio '
+   'Tools\\WAAPI-Tools\\tools\\Wwise Auto Music '
+   'Streamer\\Windows\\v2021\\build\\WwiseAutoMusicStreamer2021\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'c:\\Users\\Caio Windows VM Dev\\Documents\\Audio '
+   'Tools\\WAAPI-Tools\\tools\\Wwise Auto Music '
+   'Streamer\\Windows\\v2021\\build\\WwiseAutoMusicStreamer2021\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'c:\\Users\\Caio Windows VM Dev\\Documents\\Audio '
+   'Tools\\WAAPI-Tools\\tools\\Wwise Auto Music '
+   'Streamer\\Windows\\v2021\\build\\WwiseAutoMusicStreamer2021\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'c:\\Users\\Caio Windows VM Dev\\Documents\\Audio '
+   'Tools\\WAAPI-Tools\\tools\\Wwise Auto Music '
+   'Streamer\\Windows\\v2021\\build\\WwiseAutoMusicStreamer2021\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'c:\\Users\\Caio Windows VM Dev\\Documents\\Audio '
+   'Tools\\WAAPI-Tools\\tools\\Wwise Auto Music '
+   'Streamer\\Windows\\v2021\\build\\WwiseAutoMusicStreamer2021\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'c:\\Users\\Caio Windows VM Dev\\Documents\\Audio '
+   'Tools\\WAAPI-Tools\\tools\\Wwise Auto Music '
+   'Streamer\\Windows\\v2021\\build\\WwiseAutoMusicStreamer2021\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Caio Windows VM Dev\\Documents\\Audio '
+   'Tools\\WAAPI-Tools\\winenv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Caio Windows VM Dev\\Documents\\Audio '
+   'Tools\\WAAPI-Tools\\winenv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\Caio Windows VM Dev\\Documents\\Audio '
+   'Tools\\WAAPI-Tools\\winenv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\Caio Windows VM Dev\\Documents\\Audio '
+   'Tools\\WAAPI-Tools\\winenv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('WwiseAutoMusicStreamer2021',
+   'C:\\Users\\Caio Windows VM Dev\\Documents\\Audio '
+   'Tools\\WAAPI-Tools\\tools\\Wwise Auto Music '
+   'Streamer\\Windows\\v2021\\WwiseAutoMusicStreamer2021.py',
+   'PYSOURCE'),
+  ('python311.dll',
+   'C:\\Users\\Caio Windows VM '
+   'Dev\\AppData\\Local\\Programs\\Python\\Python311\\python311.dll',
+   'BINARY'),
+  ('select.pyd',
+   'C:\\Users\\Caio Windows VM '
+   'Dev\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\Caio Windows VM '
+   'Dev\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\Caio Windows VM '
+   'Dev\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\Caio Windows VM '
+   'Dev\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\Caio Windows VM '
+   'Dev\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\Caio Windows VM '
+   'Dev\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\Caio Windows VM '
+   'Dev\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\Caio Windows VM '
+   'Dev\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Users\\Caio Windows VM '
+   'Dev\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\Caio Windows VM '
+   'Dev\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\Caio Windows VM '
+   'Dev\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\Caio Windows VM '
+   'Dev\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Users\\Caio Windows VM '
+   'Dev\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Users\\Caio Windows VM '
+   'Dev\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Caio Windows VM '
+   'Dev\\AppData\\Local\\Programs\\Python\\Python311\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\Caio Windows VM '
+   'Dev\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('libssl-3.dll',
+   'C:\\Users\\Caio Windows VM '
+   'Dev\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libssl-3.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Users\\Caio Windows VM '
+   'Dev\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'c:\\Users\\Caio Windows VM Dev\\Documents\\Audio '
+   'Tools\\WAAPI-Tools\\tools\\Wwise Auto Music '
+   'Streamer\\Windows\\v2021\\build\\WwiseAutoMusicStreamer2021\\base_library.zip',
+   'DATA')],
+ 'python311.dll',
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)

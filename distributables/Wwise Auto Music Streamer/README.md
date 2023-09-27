@@ -5,7 +5,11 @@ Video demonstration: https://www.youtube.com/watch?v=35pFHCSBS7w
 
 This is a tool to automatically configure streaming settings for music tracks in Wwise.
 To use it, double click the executable file with your Wwise project open. It will open a terminal window with prompts and instructions. 
-Compatible with Wwise versions 2021 and 2022.
+
+Compatible with: 
+Wwise versions 2021 and 2022
+MacOs 12+
+Windows 10 & 11
  
  Here's what it does:
  

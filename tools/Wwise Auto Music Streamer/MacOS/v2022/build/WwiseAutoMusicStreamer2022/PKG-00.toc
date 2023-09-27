@@ -1,0 +1,66 @@
+('/Users/caiojmini/Documents/_CaioDocs/_WAAPI/WAAPI-Tools/tools/Wwise Auto '
+ 'Music '
+ 'Streamer/v2022/build/WwiseAutoMusicStreamer2022/WwiseAutoMusicStreamer2022.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   '/Users/caiojmini/Documents/_CaioDocs/_WAAPI/WAAPI-Tools/tools/Wwise Auto '
+   'Music Streamer/v2022/build/WwiseAutoMusicStreamer2022/PYZ-00.pyz',
+   'PYZ'),
+  ('lib-dynload/_struct.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/_struct.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/zlib.cpython-311-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload/zlib.cpython-311-darwin.so',
+   'EXTENSION'),
+  ('struct',
+   '/Users/caiojmini/Documents/_CaioDocs/_WAAPI/WAAPI-Tools/tools/Wwise Auto '
+   'Music Streamer/v2022/build/WwiseAutoMusicStreamer2022/localpycs/struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   '/Users/caiojmini/Documents/_CaioDocs/_WAAPI/WAAPI-Tools/tools/Wwise Auto '
+   'Music '
+   'Streamer/v2022/build/WwiseAutoMusicStreamer2022/localpycs/pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   '/Users/caiojmini/Documents/_CaioDocs/_WAAPI/WAAPI-Tools/tools/Wwise Auto '
+   'Music '
+   'Streamer/v2022/build/WwiseAutoMusicStreamer2022/localpycs/pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   '/Users/caiojmini/Documents/_CaioDocs/_WAAPI/WAAPI-Tools/tools/Wwise Auto '
+   'Music '
+   'Streamer/v2022/build/WwiseAutoMusicStreamer2022/localpycs/pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   '/Users/caiojmini/Documents/_CaioDocs/_WAAPI/WAAPI-Tools/environment/lib/python3.11/site-packages/PyInstaller/loader/pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   '/Users/caiojmini/Documents/_CaioDocs/_WAAPI/WAAPI-Tools/environment/lib/python3.11/site-packages/PyInstaller/hooks/rthooks/pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   '/Users/caiojmini/Documents/_CaioDocs/_WAAPI/WAAPI-Tools/environment/lib/python3.11/site-packages/PyInstaller/hooks/rthooks/pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   '/Users/caiojmini/Documents/_CaioDocs/_WAAPI/WAAPI-Tools/environment/lib/python3.11/site-packages/PyInstaller/hooks/rthooks/pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('WwiseAutoMusicStreamer2022',
+   '/Users/caiojmini/Documents/_CaioDocs/_WAAPI/WAAPI-Tools/tools/Wwise Auto '
+   'Music Streamer/v2022/WwiseAutoMusicStreamer2022',
+   'PYSOURCE')],
+ 'Python',
+ True,
+ False,
+ False,
+ [],
+ 'arm64',
+ None,
+ None)

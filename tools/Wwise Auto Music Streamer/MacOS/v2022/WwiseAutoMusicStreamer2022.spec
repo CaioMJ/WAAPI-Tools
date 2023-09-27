@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['/Users/caiojmini/Documents/_CaioDocs/_WAAPI/WAAPI-Tools/tools/Wwise Auto Music Streamer/v2022/WwiseAutoMusicStreamer2022'],
+    ['/Users/caiojmini/Documents/_CaioDocs/_WAAPI/WAAPI-Tools/tools/Wwise Auto Music Streamer/MacOS/v2022/WwiseAutoMusicStreamer2022'],
     pathex=[],
     binaries=[],
     datas=[],
@@ -18,26 +18,20 @@ pyz = PYZ(a.pure)
 exe = EXE(
     pyz,
     a.scripts,
+    a.binaries,
+    a.datas,
     [],
-    exclude_binaries=True,
     name='WwiseAutoMusicStreamer2022',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
     upx=True,
+    upx_exclude=[],
+    runtime_tmpdir=None,
     console=True,
     disable_windowed_traceback=False,
     argv_emulation=False,
-    target_arch=None,
+    target_arch='universal2',
     codesign_identity=None,
     entitlements_file=None,
-)
-coll = COLLECT(
-    exe,
-    a.binaries,
-    a.datas,
-    strip=False,
-    upx=True,
-    upx_exclude=[],
-    name='WwiseAutoMusicStreamer2022',
 )

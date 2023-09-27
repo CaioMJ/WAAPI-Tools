@@ -1,5 +1,5 @@
 ('/Users/caiojmini/Documents/_CaioDocs/_WAAPI/WAAPI-Tools/tools/Wwise Auto '
- 'Music Streamer/v2022/build/WwiseAutoMusicStreamer2022/PYZ-00.pyz',
+ 'Music Streamer/MacOS/v2022/build/WwiseAutoMusicStreamer2022/PYZ-00.pyz',
  [('_compat_pickle',
    '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/_compat_pickle.py',
    'PYMODULE'),

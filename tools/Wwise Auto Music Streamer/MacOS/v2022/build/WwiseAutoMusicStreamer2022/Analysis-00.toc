@@ -1,7 +1,7 @@
 (['/Users/caiojmini/Documents/_CaioDocs/_WAAPI/WAAPI-Tools/tools/Wwise Auto '
-  'Music Streamer/v2022/WwiseAutoMusicStreamer2022'],
+  'Music Streamer/MacOS/v2022/WwiseAutoMusicStreamer2022'],
  ['/Users/caiojmini/Documents/_CaioDocs/_WAAPI/WAAPI-Tools/tools/Wwise Auto '
-  'Music Streamer/v2022'],
+  'Music Streamer/MacOS/v2022'],
  [],
  ['/Users/caiojmini/Documents/_CaioDocs/_WAAPI/WAAPI-Tools/environment/lib/python3.11/site-packages/_pyinstaller_hooks_contrib/hooks/stdhooks',
   '/Users/caiojmini/Documents/_CaioDocs/_WAAPI/WAAPI-Tools/environment/lib/python3.11/site-packages/_pyinstaller_hooks_contrib/hooks/stdhooks/__pycache__',
@@ -28,7 +28,7 @@
    'PYSOURCE'),
   ('WwiseAutoMusicStreamer2022',
    '/Users/caiojmini/Documents/_CaioDocs/_WAAPI/WAAPI-Tools/tools/Wwise Auto '
-   'Music Streamer/v2022/WwiseAutoMusicStreamer2022',
+   'Music Streamer/MacOS/v2022/WwiseAutoMusicStreamer2022',
    'PYSOURCE')],
  [('multiprocessing.popen_forkserver',
    '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/popen_forkserver.py',
@@ -480,14 +480,14 @@
   ('_threading_local',
    '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/_threading_local.py',
    'PYMODULE'),
-  ('tracemalloc',
-   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/tracemalloc.py',
-   'PYMODULE'),
   ('_py_abc',
    '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/_py_abc.py',
    'PYMODULE'),
   ('stringprep',
    '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/stringprep.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/tracemalloc.py',
    'PYMODULE'),
   ('pprint',
    '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/pprint.py',
@@ -1000,7 +1000,8 @@
  [],
  [('base_library.zip',
    '/Users/caiojmini/Documents/_CaioDocs/_WAAPI/WAAPI-Tools/tools/Wwise Auto '
-   'Music Streamer/v2022/build/WwiseAutoMusicStreamer2022/base_library.zip',
+   'Music '
+   'Streamer/MacOS/v2022/build/WwiseAutoMusicStreamer2022/base_library.zip',
    'DATA'),
   ('Python', 'Python.framework/Versions/3.11/Python', 'SYMLINK'),
   ('Python.framework/Python', 'Versions/Current/Python', 'SYMLINK'),

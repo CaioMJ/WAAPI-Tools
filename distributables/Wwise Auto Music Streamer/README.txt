@@ -1,17 +1,22 @@
-# Wwise Auto Set Music Streamer
+Wwise Auto Music Streamer
 
 Video demonstration: https://www.youtube.com/watch?v=35pFHCSBS7w
 
 
 This is a tool to automatically configure streaming settings for music tracks in Wwise.
+
 To use it, double click the executable file with your Wwise project open. It will open a terminal window with prompts and instructions. 
+
+If double clicking the executable doesn't work, you may need to open a terminal/command prompt window, drag the executable into the terminal (or copy its path), and press enter to run it.
+
 
 Compatible with: 
 Wwise versions 2021 and 2022
 MacOs 12+
 Windows 10 & 11
+
  
- Here's what it does:
+Here's what it does:
  
  1. First it will ask you for a path to a parent object. If you only want to affect the music tracks inside a specific object, you can pass in a path to it (shift+right click the object and select "Copy path to clipboard" and paste it to the terminal). Alternatively, you can leave this blank to affect all music tracks in the entire project.
  
